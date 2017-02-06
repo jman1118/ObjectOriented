@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Name: James Vanaselja
+${licensePrefix}Course: COP3330 - Spring 2015
+${licensePrefix}University of Central Florida
+<#if licenseLast??>
+${licenseLast}
+</#if>
